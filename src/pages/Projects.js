@@ -8,7 +8,7 @@ function Projects(props) {
   useEffect(() => {
     async function getProjectsData() {
       //make api call and get response
-      const response = await fetch("./projects.json");
+      const response = await fetch("https://portfolio-backend-408.herokuapp.com/projects");
 
       // turn response into javascript object
       const data = await response.json();
