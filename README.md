@@ -2,3 +2,4 @@
 
 [Fixed Front End Bug](https://stackoverflow.com/questions/53332321/react-hook-warnings-for-async-function-in-useeffect-useeffect-function-must-ret)
 
+[Deployed Front End](https://gleaming-nougat-508301.netlify.app/projects)
